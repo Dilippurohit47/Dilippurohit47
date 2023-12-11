@@ -1,7 +1,6 @@
 👋 Welcome to my profile! I'm Dilip Raj Purohit 
 
 🌐Frontend Web Developer (Reactjs)
-📚 Engineering Scholar
 💼 Freelancer
 💡 Problem Solver
 🧠 DSA 
