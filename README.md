@@ -2,9 +2,8 @@
 
 ### 🌐 MERN Stack Developer
 
-#Portfolio : https://dilip-purohit.vercel.app/
-
-#X : https://x.com/Dilip_purohit47
+Portfolio : https://dilip-purohit.vercel.app/
+X : https://x.com/Dilip_purohit47
 
 ## Tech Stack
 
