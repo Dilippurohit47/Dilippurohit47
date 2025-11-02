@@ -2,6 +2,10 @@
 
 ### 🌐 MERN Stack Developer
 
+## Portfolio : https://dilip-purohit.vercel.app/
+
+## X : https://x.com/Dilip_purohit47
+
 ## Tech Stack
 
 - **Next.js**: React framework for server-side rendering and static site generation.
